@@ -1,0 +1,15 @@
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\bin\Debug\net6.0\Testing2.exe
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\bin\Debug\net6.0\Testing2.deps.json
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\bin\Debug\net6.0\Testing2.runtimeconfig.json
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\bin\Debug\net6.0\Testing2.dll
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\bin\Debug\net6.0\Testing2.pdb
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\Testing2.csproj.AssemblyReference.cache
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\Testing2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\Testing2.AssemblyInfoInputs.cache
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\Testing2.AssemblyInfo.cs
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\Testing2.csproj.CoreCompileInputs.cache
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\Testing2.dll
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\refint\Testing2.dll
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\Testing2.pdb
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\Testing2.genruntimeconfig.cache
+C:\Users\DhavalPatel\source\repos\Testing\Testing2\obj\Debug\net6.0\ref\Testing2.dll
